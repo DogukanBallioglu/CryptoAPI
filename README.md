@@ -17,7 +17,8 @@ Bu uygulamayı geliştirirken temel odak noktam, bir sunucudan canlı veri çekm
 * **CoinGecko API:** Gerçek zamanlı kripto para verileri için kullanılan REST API.
 
 ## 📸 Önizleme
-![Proje Ekran Görüntüsü](<img width="612" height="735" alt="image" src="https://github.com/user-attachments/assets/560f368d-e2f4-47d8-ab70-f162cf694165" />)
+![Proje Ekran Görüntüsü](<img width="595" height="724" alt="image" src="https://github.com/user-attachments/assets/8df5d482-51d0-40c0-b815-bc17790f321e" />
+)
 
 ## 💡 Neler Öğrendim?
 1.  **API Entegrasyonu:** İstemci (Client) ve Sunucu (Server) arasındaki veri alışverişi nasıl gerçekleşir?
